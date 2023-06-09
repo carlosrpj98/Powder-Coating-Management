@@ -1,0 +1,15 @@
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\bin\Debug\net7.0\PowderCoatingManagement.exe
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\bin\Debug\net7.0\PowderCoatingManagement.deps.json
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\bin\Debug\net7.0\PowderCoatingManagement.runtimeconfig.json
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\bin\Debug\net7.0\PowderCoatingManagement.dll
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\bin\Debug\net7.0\PowderCoatingManagement.pdb
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.csproj.AssemblyReference.cache
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.AssemblyInfoInputs.cache
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.AssemblyInfo.cs
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.csproj.CoreCompileInputs.cache
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.dll
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\refint\PowderCoatingManagement.dll
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.pdb
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\PowderCoatingManagement.genruntimeconfig.cache
+C:\Code\C#\PowderCoatingManagement\PowderCoatingManagement\obj\Debug\net7.0\ref\PowderCoatingManagement.dll

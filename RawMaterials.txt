@@ -1,0 +1,10 @@
+AD3696;Additive;Flow Agent;BASF;5.2
+CA2717;CuringAgent;TGIC;BASF;31
+CA8210;CuringAgent;Primid;China;13.2
+FL0804;Filler;BaSO4;Brasil Minas;2
+FL4877;Filler;Barite;Am Fillers;1
+PA3661;PostAddableAdditive;Wrinkle Agent;Dow;19.2
+PG4085;Pigment;Blue Ultramarine;Clariant;4
+PG6914;Pigment;TiO2;TIONA;21
+RS4212;Resin;Epoxi;China;16.8
+RS6141;Resin;M-8930;Reichhold;10.5
